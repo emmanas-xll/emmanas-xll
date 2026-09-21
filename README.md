@@ -29,24 +29,11 @@ Busco unir **minimalismo estético** e **eficiência técnica** em cada projeto.
 
 ---
 
-## 🚀 Projetos
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loading&repo=Loading&theme=radical&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00"/>
-</p>
-
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" />
-</p>
+
 
 ---
-
-## 🔝 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanas-xll&layout=compact&theme=radical&bg_color=000000&title_color=00FF00&text_color=FFFFFF"/>
-</p>
 
 ---
 
@@ -57,24 +44,14 @@ Busco unir **minimalismo estético** e **eficiência técnica** em cada projeto.
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanas-xll&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true"/>
-</p>
+
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emmanas-xll&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&title=Commit,Repositories,Stars,Followers,Issues,PullRequest"/>
-</p>
+
 
 ---
 
-## 🐍 Snake Contribution
-<p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
