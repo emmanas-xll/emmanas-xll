@@ -45,28 +45,28 @@ Busco unir **minimalismo estético** e **eficiência técnica** em cada projeto.
 
 ## 🔝 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=000000&title_color=00FF00&text_color=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanas-xll&layout=compact&theme=radical&bg_color=000000&title_color=00FF00&text_color=FFFFFF"/>
 </p>
 
 ---
 
 ## 🔥 Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanas-xll&theme=radical&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanas-xll&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&title=Commit,Repositories,Stars,Followers,Issues,PullRequest"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=emmanas-xll&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&title=Commit,Repositories,Stars,Followers,Issues,PullRequest"/>
 </p>
 
 ---
